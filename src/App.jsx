@@ -1,10 +1,15 @@
-import ApiExample from "./components/ApiExample";
+// import DisplayData from "./components/ApiExample";
+// import ApiExample from "./components/ApiExample";
+
+import CreateData from "./components/ApiExample";
 
 const App = () => {
   return (
     <div>
       <div>
-        <ApiExample />
+        {/* <ApiExample /> */}
+        {/* <DisplayData /> */}
+        <CreateData />
       </div>
     </div>
   );
